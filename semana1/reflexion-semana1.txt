@@ -1,0 +1,2 @@
+El git es diseñado para gestionar el historialde cambios en el codigo fuente de proyectos sofware,como el uso del internet inplica navegar la seguridad,responsable y aconciencia respetando alas demas personas que tan bien lo utilizan.
+
