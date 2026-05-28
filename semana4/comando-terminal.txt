@@ -1,0 +1,4 @@
+nano preguntas-semana4.txt
+nano comando-terminal.txt
+nano reflexion-semana4.txts
+
