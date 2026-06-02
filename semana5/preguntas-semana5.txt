@@ -1,0 +1,9 @@
+pregunta 1
+Rts=B
+pregunta 2
+Rts=B
+pregunta 3
+Rts=B
+pregunta 4
+Rts=B
+

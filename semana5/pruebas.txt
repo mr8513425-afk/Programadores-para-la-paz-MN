@@ -1,0 +1,4 @@
+localhost:3000 Esta configurado, en este caso, para mostrar un mensaje de confirmaciòn de funcionamiento
+localhost:3000/saludo Muestra un mensaje de Hola comunidad
+localhost:3000/mensaje/juan Imprime Hola juan
+

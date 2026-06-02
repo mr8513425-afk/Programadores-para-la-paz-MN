@@ -1,0 +1,3 @@
+El endpoint POST creado es para enviar un reporte al servidor, a travès de la API
+Podria servir en una aplicaciòn comunitaria, para enviar informaciòn en un formato especifico que permita mantener trazabilidad de diferentes fenomenos
+
