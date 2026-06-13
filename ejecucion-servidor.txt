@@ -1,0 +1,8 @@
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+-Qué ocurre cuando ejecutas node server.js.
+-Qué mensaje aparece en la terminal.
+-Qué sucede cuando visitas la ruta /estado
+
