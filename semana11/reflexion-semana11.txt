@@ -1,0 +1,5 @@
+Sin base de datos no hay información ordenada; sin autenticación no hay control ni seguridad en quién participa; sin protección de datos se pone en riesgo a la comunidad y se pierde la confianza. Juntos hacen que la plataforma sea un espacio seguro, legítimo y útil para que la gente ejerza su derecho a participar.
+- Es el espacio donde se guardan de forma ordenada, segura y permanente las propuestas, denuncias, acuerdos, avances y datos de la comunidad. Sin ella, la información se perdería, estaría desorganizada o no se podría consultar después.
+- Permite definir permisos: un ciudadano, un revisor o una autoridad no tienen las mismas funciones; la autenticación controla quién puede proponer, quién revisa y quién gestiona la información.
+- Defiende la privacidad: impide que datos sensibles (identificación, ubicación, datos personales) se filtren, se usen indebidamente o se utilicen para dañar a las personas.
+
