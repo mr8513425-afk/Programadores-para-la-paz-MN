@@ -1,0 +1,23 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+ 
+1. Configurar la protección de rutas y el control de acceso con roles (ciudadano, revisor, administrador).
+​
+2. Definir y programar el flujo completo de estados de las peticiones (pendiente, requiere ajuste, aprobada, cerrada).
+ 
+ 
+ 
+2. ¿Por qué son las más importantes?
+ 
+- Son la base fundamental de toda la plataforma: sin control de acceso no se puede garantizar la seguridad de la información ni diferenciar las funciones de cada usuario.
+​
+- Sin el flujo de estados definido, no hay forma clara de dar seguimiento a las solicitudes, ni el equipo ni la ciudadanía sabrán en qué etapa se encuentra cada trámite, y se pierde el orden y la trazabilidad del trabajo.
+​
+- Si estas tareas se dejan para después, todo lo demás que se construya tendrá que modificarse o rehacerse para adaptarse a estas reglas, perdiendo tiempo y esfuerzo.
+ 
+ 
+ 
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+ 
+Una tarea está terminada cuando cumple todos estos criterios:
+- La definición de "terminada" evita el error de creer que "se hizo la mitad" o "funciona en mi equipo" es suficiente: asegura que el trabajo es útil, verificable y listo para el siguiente paso.
+
